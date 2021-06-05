@@ -1,0 +1,16 @@
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.exe
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.deps.json
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.runtimeconfig.json
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.runtimeconfig.dev.json
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.dll
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\ref\functii1.dll
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\bin\Debug\net5.0\functii1.pdb
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.csprojAssemblyReference.cache
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.AssemblyInfoInputs.cache
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.AssemblyInfo.cs
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.csproj.CoreCompileInputs.cache
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.dll
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\ref\functii1.dll
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.pdb
+C:\Users\skump\source\repos\an1_info\JuniorMind\functii1\functii1\obj\Debug\net5.0\functii1.genruntimeconfig.cache
